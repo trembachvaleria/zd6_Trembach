@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pr6_Trembach</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="obs">Обсуждения</string>
+    <string name="izb">Избранное</string>
+    <string name="nov">Новое</string>
+    <string name="world">WorldCinema</string>
+    <string name="voiti">Войти</string>
+    <string name="mail">E-mail</string>
+    <string name="par">Пароль</string>
+</resources>
